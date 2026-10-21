@@ -1,1 +1,2 @@
-Student Management System using HTML
+Student Management System
+Developed using HTML and JavaScript
